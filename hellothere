@@ -1,0 +1,5 @@
+store = input()
+if store == "Hello There" or "hello there" or "Hello There!":
+    print("General Kenobi! You are a bold one!")
+else:
+    print("hello")
